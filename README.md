@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nik0929
 - 👀 I’m interested in Cloud Computing as well  Networking 
-- 🌱 I’m currently learning B.E. in Computer Engineering
+- 🌱 I’m currently Pursuning B.E. in Computer Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
